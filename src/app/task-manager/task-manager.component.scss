@@ -1,0 +1,13 @@
+.form-label,
+.form-input,
+.form-error-msg {
+  display: block;
+}
+
+.form-error-msg {
+  color: red;
+}
+
+.form-input-error {
+  border-color: red;
+}
